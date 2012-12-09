@@ -1,5 +1,5 @@
 # Function to grade homework 1
-def grade(module):
+def grade(module,file_name):
 	try:
 		module.turtleShapes()
 	except:
